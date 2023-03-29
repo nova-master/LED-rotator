@@ -1,9 +1,7 @@
 
-
-
-
-
 # LED-rotator
+
+![Basys3-Xilinx-1000x755](https://user-images.githubusercontent.com/129145316/228516981-75a3aeb6-c575-41c4-ab3c-cec2ac6c0ca9.jpg)
 using Shift-left and Shift-right register
 To create a LED-Rotation using verilog
 ## step 1. 
@@ -35,6 +33,6 @@ Master.xdc (we carefull with pin number).
   # Generate bit stream and enjoy!
 https://user-images.githubusercontent.com/129145316/228508671-679bc94f-0eec-4871-87b2-15bdb5e423a8.mp4    
 
-![Basys3-Xilinx-1000x755](https://user-images.githubusercontent.com/129145316/228516981-75a3aeb6-c575-41c4-ab3c-cec2ac6c0ca9.jpg)
+
 
 
