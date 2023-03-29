@@ -1,5 +1,5 @@
 # LED-rotator
- using Shift-left and Shift-right register
+using Shift-left and Shift-right register
 To create a LED-Rotation using verilog
 ## step 1. 
 ```bash
