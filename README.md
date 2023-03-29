@@ -1,3 +1,8 @@
+![Basys3-Xilinx-1000x755](https://user-images.githubusercontent.com/129145316/228515482-e9458ebd-d71a-4b0e-8e18-ab839f140c21.jpg)
+https://user-images.githubusercontent.com/129145316/228508671-679bc94f-0eec-4871-87b2-15bdb5e423a8.mp4
+
+
+
 # LED-rotator
 using Shift-left and Shift-right register
 To create a LED-Rotation using verilog
@@ -24,8 +29,9 @@ create a testbench module (LFSR_tb.v) to check the  validate all signal using si
 ```
 ## step 6. 
 ```bash 
-create a constrain file Basys3_Master.xdc (we carefull with pin number).
+create a constrain file Basys3_![Uploading Basys3-Xilinx-1000x755.jpg…]()
+Master.xdc (we carefull with pin number).
 ```
   # Generate bit stream and enjoy!
-https://user-images.githubusercontent.com/129145316/228508671-679bc94f-0eec-4871-87b2-15bdb5e423a8.mp4
+
 
