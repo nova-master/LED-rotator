@@ -5,7 +5,7 @@ To create a LED-Rotation using verilog
 ## step 1. 
 
 ```bash
-created a module(LFSR.v) that can rotate data in bothe left and right direction beased on control input.
+created a module(LFSR.v) that can rotate data in bothe left and right direction based on control input.
 ```
 
 ## Step2. 
@@ -31,7 +31,7 @@ create a constrain file Basys3_Master.xdc (we carefull with pin number).
 ```
 
 
-   # Generate bit stream and enjoy!
+                            # Generate bit stream and enjoy!
 
 
 https://user-images.githubusercontent.com/129145316/228508671-679bc94f-0eec-4871-87b2-15bdb5e423a8.mp4
