@@ -1,4 +1,4 @@
-![Basys3-Xilinx-1000x755](https://user-images.githubusercontent.com/129145316/228515482-e9458ebd-d71a-4b0e-8e18-ab839f140c21.jpg)
+![Basys3-Xilinx-100x755](https://user-images.githubusercontent.com/129145316/228515482-e9458ebd-d71a-4b0e-8e18-ab839f140c21.jpg)
 
 
 
