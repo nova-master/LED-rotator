@@ -1,9 +1,10 @@
 
 # LED-rotator
+using Shift-left and Shift-right register
 
 ![Basys3-Xilinx-1000x755](https://user-images.githubusercontent.com/129145316/228516981-75a3aeb6-c575-41c4-ab3c-cec2ac6c0ca9.jpg)
 
-using Shift-left and Shift-right register
+
 To create a LED-Rotation using verilog
 ## step 1. 
 ```bash
